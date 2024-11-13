@@ -6,7 +6,9 @@ For this assignment I was particularly working with strings without relying on b
 
 # these are some functions in the assignment 
 *is_alpha 
+
 *is_digit 
+
 *to_lower 
 
 
