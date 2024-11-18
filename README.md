@@ -13,7 +13,7 @@ For this assignment I was particularly working with strings without relying on b
 
 *to_upper
 
-
+<img src='https://imgur.com/a/PjDok3n.png'title='Output' width='' alt='Output' />
 
 
 
